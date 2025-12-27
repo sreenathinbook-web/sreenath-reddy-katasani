@@ -1,0 +1,7 @@
+{
+  "name": "The Kop Central",
+  "description": "The ultimate all-in-one hub for Liverpool FC fans. Get the latest news, live scores, fixtures, standings, and chat with an AI expert on everything LFC.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
